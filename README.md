@@ -9,4 +9,18 @@ For further processing and Diagnosis the Same graph is sent to a Back-End Server
 
 a Graph to the PC/Mobile connected to the same  
 
-### Tools required:
+### Tools required
+1. Arduino IDE (For writing Code for Receiveing and Transmitting the Data received in the sensor) 
+2. MATLAB (for analysis of signal)
+
+### Programming Language Used
+1. C/C++ (for Arduino IDE)
+2. ForTran (for MATLAB)
+
+### Hardware Required
+1. Arduino UNO board (Microprocessor)
+2. AD-8232 Heart-Rate Monitoring Sensor (SMD board)
+3. Eletrodes (3-leaded Electrode system)
+4. Breadboard
+5. Jumper Wires (10 No.s)
+6. Power supply for Arduino and the Sensor
